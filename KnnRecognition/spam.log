@@ -1,0 +1,4 @@
+2020-04-08 20:17:49:CRITICAL:[32mDeployment[0m:[app.py:<module>: 24]:problems with credentials
+2020-04-08 20:17:49:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-04-08 20:17:49:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-04-08 20:17:49:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files

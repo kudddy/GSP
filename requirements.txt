@@ -1,0 +1,15 @@
+gunicorn
+flask
+flask_json
+gensim
+numpy
+requests
+colorama
+pymystem3
+termcolor
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+geographiclib
+textract
+scikit-learn==0.21.3

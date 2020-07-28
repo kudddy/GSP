@@ -1,0 +1,188 @@
+2020-04-01 14:14:18:CRITICAL:[32mDeployment[0m:[app.py:<module>: 34]:problems with credentials
+2020-04-01 14:14:18:INFO:[32mDeployment[0m:[app.py:<module>: 40]:model not found
+2020-04-01 14:14:18:INFO:[32mDeployment[0m:[app.py:<module>: 41]:make dir
+2020-04-01 14:14:18:INFO:[32mDeployment[0m:[app.py:<module>: 44]:upload files
+2020-04-01 14:16:14:INFO:[32mDeployment[0m:[app.py:<module>: 28]:credentials succes download
+2020-04-01 14:16:14:INFO:[32mDeployment[0m:[app.py:<module>: 30]:activate drive
+2020-04-01 14:16:15:INFO:[32mDeployment[0m:[app.py:<module>: 32]:drive activate
+2020-04-01 14:16:16:INFO:[32mDeployment[0m:[app.py:<module>: 38]:model work fine
+2020-04-01 14:16:16:INFO:[32mDeployment[0m:[app.py:<module>: 53]:start FastTextAsServer
+2020-04-01 14:48:47:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 14:48:47:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 14:48:48:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 14:48:50:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 14:48:50:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 14:49:54:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 14:49:54:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 14:49:55:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 14:49:56:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 14:49:56:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 14:50:22:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 14:50:22:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 14:50:22:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 14:50:24:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 14:50:24:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 15:03:20:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 15:03:20:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 15:03:21:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 15:03:23:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 15:03:23:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 15:06:27:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 15:06:27:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 15:06:33:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 15:06:34:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 15:06:34:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 15:07:25:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 15:07:25:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 15:07:25:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 15:07:26:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 15:07:26:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-01 18:42:04:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-01 18:42:04:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-01 18:42:06:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-01 18:42:08:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-01 18:42:08:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-05 16:46:18:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-05 16:46:18:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-05 16:46:18:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-05 16:46:20:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-05 16:46:20:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-05 16:50:57:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-05 16:50:57:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-05 16:50:57:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-05 16:50:59:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-05 16:50:59:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 19:50:13:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 19:50:13:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 19:50:14:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 19:50:16:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 19:50:16:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 19:52:46:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 19:52:46:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 19:52:47:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 19:52:49:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 19:52:49:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 19:53:22:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 19:53:22:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 19:53:22:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 19:53:24:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 19:53:24:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 19:54:40:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 19:54:40:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 19:54:40:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 19:54:42:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 19:54:42:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:01:18:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:01:18:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:01:18:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:01:20:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:01:20:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:02:35:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:02:35:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:02:35:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:02:37:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:02:37:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:17:56:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:17:56:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:17:57:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:17:58:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:17:58:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:21:15:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:21:15:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:21:16:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:21:17:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:21:17:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:22:28:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:22:28:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:22:28:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:22:29:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:22:29:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 20:23:23:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 20:23:23:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 20:23:24:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 20:23:25:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 20:23:25:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 23:11:22:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 23:11:22:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 23:11:23:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 23:11:25:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 23:11:25:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-08 23:57:57:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 23:57:57:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 23:58:20:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-08 23:58:20:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-08 23:58:21:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-08 23:58:22:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-08 23:58:22:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-09 22:02:41:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-09 22:02:41:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-09 22:02:42:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-09 22:02:44:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-09 22:02:44:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-09 22:03:33:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-09 22:03:33:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-09 22:03:33:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-09 22:03:35:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-09 22:03:35:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-09 22:10:45:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-09 22:10:45:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-09 22:10:45:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-09 22:10:47:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-09 22:10:47:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-04-09 22:18:12:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-04-09 22:18:12:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-04-09 22:18:12:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-04-09 22:18:14:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-04-09 22:18:14:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 16:39:16:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 16:39:16:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 16:39:16:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 17:17:40:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 17:17:40:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 17:17:40:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 17:17:42:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-07-28 17:17:42:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-07-28 18:26:11:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files
+2020-07-28 18:27:45:INFO:[32mDeployment[0m:[app.py:<module>: 41]:upload success
+2020-07-28 18:27:45:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 18:30:23:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:30:23:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:30:24:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:30:26:INFO:[32mDeployment[0m:[app.py:<module>: 28]:model work fine
+2020-07-28 18:30:26:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-07-28 18:30:40:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files
+2020-07-28 18:33:21:INFO:[32mDeployment[0m:[app.py:<module>: 41]:upload success
+2020-07-28 18:33:21:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-07-28 18:35:04:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-07-28 18:35:46:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files
+2020-07-28 18:38:00:INFO:[32mDeployment[0m:[app.py:<module>: 41]:upload success
+2020-07-28 18:38:00:INFO:[32mDeployment[0m:[app.py:<module>: 43]:start FastTextAsServer
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 18]:credentials succes download
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 20]:activate drive
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 22]:drive activate
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 30]:model not found
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 31]:make dir
+2020-07-28 18:39:30:INFO:[32mDeployment[0m:[app.py:<module>: 34]:upload files
+2020-07-28 18:41:13:INFO:[32mDeployment[0m:[app.py:<module>: 41]:upload success
+2020-07-28 18:41:15:INFO:[32mDeployment[0m:[app.py:<module>: 45]:model work fine
+2020-07-28 18:41:15:INFO:[32mDeployment[0m:[app.py:<module>: 47]:start FastTextAsServer
