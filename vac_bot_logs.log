@@ -88,3 +88,9 @@
 2020-07-28 18:41:15:INFO:[32mDeployment[0m:[app.py:<module>: 20]:credentials succes download
 2020-07-28 18:41:15:INFO:[32mDeployment[0m:[app.py:<module>: 22]:activate drive
 2020-07-28 18:41:15:INFO:[32mDeployment[0m:[app.py:<module>: 24]:drive activate
+2020-07-29 15:43:51:INFO:[32mDeployment[0m:[app.py:<module>: 20]:credentials succes download
+2020-07-29 15:43:51:INFO:[32mDeployment[0m:[app.py:<module>: 22]:activate drive
+2020-07-29 15:43:52:INFO:[32mDeployment[0m:[app.py:<module>: 24]:drive activate
+2020-07-29 15:46:34:INFO:[32mDeployment[0m:[app.py:<module>: 20]:credentials succes download
+2020-07-29 15:46:34:INFO:[32mDeployment[0m:[app.py:<module>: 22]:activate drive
+2020-07-29 15:46:34:INFO:[32mDeployment[0m:[app.py:<module>: 24]:drive activate
